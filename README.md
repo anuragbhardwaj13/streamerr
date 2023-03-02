@@ -1,5 +1,5 @@
 ### Streamer Landing Page
-## Live Demo [Click Here](streamerr-landing.vercel.app/)
+## Live Demo [Click Here](https://www.streamerr-landing.vercel.app/)
 ## Available Scripts
 
 In the project directory, you can run:
